@@ -20,6 +20,7 @@ add: 03
 add: 04
 add: 05
 del: 02
+test: 02
 
 
 
